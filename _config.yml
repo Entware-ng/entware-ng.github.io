@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Entware-ng
+tagline:             Ultimate repo for embedded devices 
+url:                 http://entware.net
 paginate:            1
 baseurl:             https://entware-ng.github.io/
 
@@ -17,9 +17,15 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Entware team
+  url:               https://t.me/Entware
+  email:             mail@entware.net
+
+# Our own page list
+pages_list:
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
 
 # Custom vars
 version:             2.0.0
