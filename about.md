@@ -3,28 +3,20 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Entware-ng
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+This is a software repository for network attached storages, routers and other embedded devices.
 
-There are currently two themes built on Poole:
+Browse through 2000+ packages for different platforms:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* armv5 - http://pkg.entware.net/binaries/armv5/Packages.html
+* armv7 - http://pkg.entware.net/binaries/armv7/Packages.html
+* mipsel - http://pkg.entware.net/binaries/mipsel/Packages.html
+* x86-32 - http://pkg.entware.net/binaries/x86-32/Packages.html
+* x86-64 - http://pkg.entware.net/binaries/x86-64/Packages.html
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+---
 
-## Setup
+[See how](https://github.com/Entware-ng/Entware-ng/wiki) to use it.
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Feel free to [ask for new packages](https://github.com/Entware-ng/Entware-ng/issues) or report any bugs you've found.
