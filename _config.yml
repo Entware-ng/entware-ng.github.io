@@ -6,7 +6,7 @@ title:               Entware-ng
 tagline:             Ultimate repo for embedded devices 
 url:                 http://entware.net
 paginate:            1
-baseurl:             https://entware-ng.github.io/
+baseurl:             ""
 
 # Assets
 #
