@@ -3,7 +3,7 @@ layout: post
 title: New or changed packages
 ---
 
-MySQL packages was replaced by MariaDB. PHP5 packages willbe removed in next month as absolete.
+MySQL packages was replaced by MariaDB. PHP5 packages wil lbe removed in next month as obsolete.
 You can always find any of removed packages at http://pkg.entware.net/binaries/<feed>/archive folder.
 
 * alsa-lib 1.1.4-1,
