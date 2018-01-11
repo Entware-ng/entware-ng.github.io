@@ -1,5 +1,6 @@
 ---
-published: false
+layout: post
+title: New or changed packages
 ---
 ## New or changed packages
 
