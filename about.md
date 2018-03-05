@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-## Entware-ng
+## Entware
 
 This is a software repository for network attached storages, routers and other embedded devices.
 
@@ -17,6 +17,6 @@ Browse through 2000+ packages for different platforms:
 
 ---
 
-[See how](https://github.com/Entware-ng/Entware-ng/wiki) to use it.
+[See how](https://github.com/Entware/Entware/wiki) to use it.
 
-Feel free to [ask for new packages](https://github.com/Entware-ng/Entware-ng/issues) or report any bugs you've found.
+Feel free to [ask for new packages](https://github.com/Entware/Entware/issues) or report any bugs you've found.
