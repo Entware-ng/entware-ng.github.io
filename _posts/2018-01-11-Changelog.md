@@ -2,7 +2,6 @@
 layout: post
 title: Changelog
 ---
-## Changelog
 
 * 3proxy 0.8.11-1,
 * acl 20170420-1,
