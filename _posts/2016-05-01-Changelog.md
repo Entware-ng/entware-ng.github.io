@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New or changed packages
+title: Changelog
 ---
 
 * gw6c 6.0.1-1 was deleted, Freenet6 is over,

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New or changed packages
+title: Changelog
 ---
 
 * aria2 1.20.0-1,

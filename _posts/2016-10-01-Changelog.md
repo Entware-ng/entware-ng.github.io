@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New or changed packages
+title: Changelog
 ---
 
 * [hub-ctrl 1.0-1](https://github.com/codazoda/hub-ctrl.c),

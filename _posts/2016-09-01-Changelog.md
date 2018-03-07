@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New or changed packages
+title: Changelog
 ---
 
 * apache 2.2.31-2,

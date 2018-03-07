@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New or changed packages
+title: Changelog
 ---
 
 * jq 1.5-2,

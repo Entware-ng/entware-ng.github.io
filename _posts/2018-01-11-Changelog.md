@@ -1,8 +1,8 @@
 ---
 layout: post
-title: New or changed packages
+title: Changelog
 ---
-## New or changed packages
+## Changelog
 
 * 3proxy 0.8.11-1,
 * acl 20170420-1,

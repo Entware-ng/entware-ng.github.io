@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New or changed packages
+title: Changelog
 ---
 
 MySQL packages was replaced by MariaDB. PHP5 packages will be removed in next month as obsolete.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New or changed packages
+title: Changelog
 ---
 
 * [adb android.5.0.2_r1-1](http://tools.android.com/),

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New or changed packages
+title: Changelog
 ---
 
 Toolchains was updated, GCC 5.3.0 with GO language support.

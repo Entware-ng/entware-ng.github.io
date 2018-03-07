@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New or changed packages
+title: Changelog
 ---
 
 Mipsel toolchain: GCC 5.4.0, uClibc-ng 1.0.17.
