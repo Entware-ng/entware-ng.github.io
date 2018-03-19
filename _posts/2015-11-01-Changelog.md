@@ -118,5 +118,3 @@ title: Changelog
 * zabbix 2.4.6-2,
 * zoneinfo-* 2015g-1,
 * zsh 5.1.1-1.
-
-Previous changes logged [here](https://github.com/Entware/entware/wiki/Changelog).
